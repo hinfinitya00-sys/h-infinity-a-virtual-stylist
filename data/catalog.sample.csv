@@ -1,0 +1,5 @@
+category,brand,name,url,price_currency,price,notes
+top,ExampleBrand,Example Top,https://example.com/top,JPY,0,replace with real items
+bottom,ExampleBrand,Example Bottom,https://example.com/bottom,JPY,0,replace with real items
+shoes,ExampleBrand,Example Shoes,https://example.com/shoes,JPY,0,replace with real items
+outer,ExampleBrand,Example Outer,https://example.com/outer,JPY,0,replace with real items
